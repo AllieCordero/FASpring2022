@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(108, 211, 108);
+}
+    
+p {
+    font-family: fantasy;
+    font-weight: bolder;
+    font-style: oblique;
+    color: hotpink;
+}
